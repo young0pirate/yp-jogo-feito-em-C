@@ -1,4 +1,4 @@
-<h1>Este é um mini jogo feito na língua C</h1>
+<h1>Este é um mini jogo feito na línguagem C</h1>
 
 <p>Levou-me algum tempo a ter que terminá-lo.
 É o primeiro projecto que desenvolvo e termino,peso emboea seja um jogo que já exista fazum tempo, contudo pa mim foi como se fosse novo.
@@ -13,4 +13,11 @@ O aplicativo usado é o *CXXDROID*;
 
 <li> - Notarão em algumas partes do código, quando na utilização de vectores, que para acessar os valores do JOGADOR UM e do JOGADOR DOIS, tive de acessá-los directamente apartir dos índices desse vector: “Essa é aparte que tive maior dificultidade, se tiveres uma maneira mais simples de fazer isso, agradeceria bastante.
 </li>
+<address>
+<p>
 ===== DAMIÃO FACUNDO =====
+<i>Contacto:</i>
+<ul>
+<li>Whatsapp: (+244) 942802701</li>
+</ul>
+</address>
