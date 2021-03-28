@@ -11,7 +11,7 @@ Porquê digo digo isso?
 O aplicativo usado é o *CXXDROID*;
 </li>
 
-<li> - Notarão em algumas partes do código, quando na utilização de vectores, que para acessar os valores do JOGADOR UM e do JOGADOR DOIS, tive de acessá-los directamente apartir dos índices desse vector: “Essa é aparte que tive maior dificultidade, se tiveres uma maneira mais simples de fazer isso, agradeceria bastante.
+<li> - Notarão em algumas partes do código, quando na utilização de vectores, que para acessar os valores do JOGADOR UM e do JOGADOR DOIS, tive de acessá-los directamente apartir dos índices desse vector: “Essa é aparte que tive maior dificuldade, se tiveres uma maneira mais simples de fazer isso, agradeceria bastante.
 </li>
 <address>
 <p>
