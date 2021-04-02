@@ -1,0 +1,25 @@
+<h1>Esta é a versão completa do jogo em C</h1>
+<p>
+Bem, basicamente o que poderão encontrar de novo
+nesta nova versão do jogo são as seguintes:
+</p>
+<ul>
+<li>Há um menu actualizado que o usário poderá escolher qual o modo de jogo é que ele quer jogar;</li>
+<li>Há <i>três</i> opções válidas e a <i>quarta</i> é a que permite o usuário abandonar o jogo ou encerrá-lo.</li>
+</ul>
+<h3>Acerca das opções</h3>
+<p>
+A primeira não é novidade para quem acompanhou a primeira versão do jogo de sorteio.
+Porém, para os que não acompanharam, ela diz respeito ao usuário poder jogar sozinho com o sistema.
+<p>
+A segunda diz respeito ao usuário poder jogar com um compenheiro, namorada/o, pai ou mãe até avós, ou seja é o modo dois do jogo.
+</p>
+<p>
+A terceira diz respeito ao modo <b>iniciante ou batoteiro</b>. Esse é um modo engraçado. Porquê digo isso, bem porque primeiro o <u>SISTEMA</u> vai jogar um valor aleatório que de 0 à 10, em seguida esse valor é apresentado e só depois é permitido o usuário jogar.<br>
+Isso até pode parecer meio inútil mas o propósito aqui é testar a atenção do jogador.
+</p>
+<h3>Diferença entre os três modos</h3>
+<p>
+Os 2 primeiros modos te permitem jogar até um determinado número de vezes, 5 para o primeiro modo, 10 para o segundo e para o terceiro, o programa só termina assim que o usuário acertar o valor que o sistema sorteio.
+Sem esquecer que, o primeiro e o segunda modo, também lhe permitem enxergar qual o &quot;Round&quot; o usuário se encontra.
+</p>
